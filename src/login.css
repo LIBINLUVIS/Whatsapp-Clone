@@ -1,0 +1,28 @@
+.img{
+    height:200px;
+    width:200px;
+}
+.login{
+    background-color:#f8f8f8;
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    border-radius:20px;
+    box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px;
+
+}
+
+.login > button{
+    background-color:#0a8d48 !important;
+    margin-bottom: 50px;
+    text-transform: inherit !important;
+    color: white;
+
+
+}
+.login__text{
+    margin-left:10px;
+    margin-right: 10px;
+
+}
